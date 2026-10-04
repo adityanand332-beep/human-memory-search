@@ -2,6 +2,19 @@
 
 A polished, local-first prototype for searching your own memories, notes, ideas and experiences.
 
+![MemorySearch project cover](assets/memorysearch-project-cover.png)
+
+## Project links
+
+- **Live demo:** https://adityanand332-beep.github.io/human-memory-search/
+- **Source code:** https://github.com/adityanand332-beep/human-memory-search
+- **Issue tracker:** https://github.com/adityanand332-beep/human-memory-search/issues
+- **Build and deployment status:** https://github.com/adityanand332-beep/human-memory-search/actions/workflows/deploy-pages.yml
+
+## Skills demonstrated
+
+JavaScript · HTML5 · CSS3 · Responsive Web Design · Local Storage · Client-Side Search · UI/UX Design · GitHub Actions · GitHub Pages
+
 ## Run it
 
 No build step is required.
