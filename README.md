@@ -26,6 +26,7 @@ To enable deployment, make sure GitHub Pages is configured to use **GitHub Actio
 - Add, favorite and delete memories
 - Filter by category and sort by recency or relevance
 - Keyboard shortcuts: `Ctrl/Cmd + K` to search and `Ctrl/Cmd + N` to capture
+- GitHub issue tracker and build/deployment status links in the workspace sidebar
 - Persistent browser storage with `localStorage`
 - JSON export
 - Responsive mobile sidebar
