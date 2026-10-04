@@ -25,6 +25,16 @@ kbd{font-family:inherit;font-size:9px;color:#a9b1a9;background:rgba(255,255,255,
 .nav-shortcut,.nav-count{margin-left:auto;color:#a3aaa3;font-size:9px}
 .nav-count{min-width:19px;height:19px;border-radius:10px;background:#f1f4ef;display:grid;place-items:center}
 .sidebar-bottom{margin-top:auto}
+.tracker-card{padding:11px;margin-bottom:10px;border:1px solid #e9eee6;border-radius:10px;background:linear-gradient(145deg,#f8faf6,#f1f6ed)}
+.tracker-heading{display:flex;align-items:center;gap:7px;margin-bottom:7px;font-size:8px;font-weight:800;letter-spacing:.1em;color:#899488}
+.tracker-mark{width:19px;height:19px;border-radius:6px;display:grid;place-items:center;background:#e6efdf;color:#638052;font-size:12px}
+.live-badge{margin-left:auto;display:flex;align-items:center;gap:5px;border-radius:10px;background:#e5f2df;color:#588248;padding:4px 6px;font-size:7px;letter-spacing:.08em}
+.live-badge i{width:5px;height:5px;border-radius:50%;background:#68a955}
+.tracker-link{display:flex;justify-content:space-between;align-items:center;padding:6px 2px;color:#647063;text-decoration:none;font-size:9px}
+.tracker-link+ .tracker-link{border-top:1px solid #e9eee5}
+.tracker-link span:last-child{font-size:11px;color:#97a393;transition:transform .15s,color .15s}
+.tracker-link:hover{color:#38533a}
+.tracker-link:hover span:last-child{color:#648b55;transform:translate(1px,-1px)}
 .privacy-card{display:flex;gap:10px;background:#f4f7f2;border:1px solid #edf1e9;border-radius:10px;padding:11px;margin-bottom:11px}
 .privacy-icon{width:27px;height:27px;flex:0 0 27px;border-radius:8px;background:#e6f3dc;color:#63834f;display:grid;place-items:center}
 .privacy-card strong{font-size:10px}
