@@ -1,0 +1,9 @@
+{
+  "name": "human-memory-search",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local-first personal memory search prototype",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
